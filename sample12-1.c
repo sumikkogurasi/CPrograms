@@ -12,7 +12,7 @@ int main(void){
     printf("いくら預けますか？\n");
     scanf("%d", &money);
 
-    printf("利率は何％ですか？\n");
+    printf("利率は何%%ですか？\n");
     scanf("%lf", &prate);
 
     printf("何年預けますか？\n");
