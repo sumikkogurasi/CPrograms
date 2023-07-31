@@ -26,7 +26,7 @@ int main(void){
         i++;
     }
 
-    printf("%d 円を利率%f %%で%d 年預けると\n", money, rate, n);
+    printf("%d 円を利率%f %%で%d 年預けると\n", money, prate, n);
     printf("合計%d 円になります。\n", total);
 
     return 0;
